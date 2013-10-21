@@ -1,0 +1,3 @@
+ReportPrinter = {
+    print: function(text) {}
+};

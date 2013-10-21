@@ -1,0 +1,9 @@
+{
+  "name": "expense-report",
+  "version": "0.1.0",
+  "description": "Just another 'clean-up this mess' thing",
+  "files": [ "src" ],
+  "dependencies": {
+    "nodeunit": "*"
+  }
+}
