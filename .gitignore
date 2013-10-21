@@ -1,7 +1,20 @@
 .bin
 .DS_Store
-node_modules
 .idea
 *.iml
+lib-cov
+*.seed
 *.log
-*.swp
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+node_modules
+>>>>>>> 9373a85db9248ba8d0159da56302f9cfe3879f14
